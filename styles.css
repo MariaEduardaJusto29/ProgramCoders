@@ -1,5 +1,5 @@
 *{
-    background-color: black;
+    background-color: rgb(36, 16, 151);
 }
 body {
     font-family: Arial, sans-serif;
@@ -11,13 +11,13 @@ body {
 }
 
 .container {
-    text-align: center;
+    text-align: center;scrollbar-width: ;
 }
 
 button {
     padding: 10px 20px;
     font-size: 18px;
-    background-color: #041e3a;
+    background-color: #0a65c7;
     color: white;
     border: none;
     cursor: pointer;
@@ -25,7 +25,7 @@ button {
 }
 
 button:hover {
-    background-color: #0a3461;
+    background-color: #bcce21;
 }
 
 p {
